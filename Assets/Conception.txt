@@ -4,7 +4,7 @@ Changements :
  - Vue 1ere personne
 	- le joueur ne sais donc pas où sont les autres
  - Communication par micro en fonction de la distance
-	- un micro en salle de contrôle permet de se faire entendre par tous
+	- un micro en salle de contrôle permet de se faire entendre par tous dans le vaisseau
  - jauges visibles en salle de contrôle
  - passage en temps réel
  
